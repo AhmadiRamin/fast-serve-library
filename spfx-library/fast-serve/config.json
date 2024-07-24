@@ -1,0 +1,13 @@
+{
+  "$schema": "https://raw.githubusercontent.com/s-KaiNet/spfx-fast-serve/master/schema/config.v2.schema.json",
+  "cli": {
+    "isLibraryComponent": true,
+    "port": 4323,
+    "usePnpm": true,
+    "hotRefresh": true
+  },
+  "serve": {
+    "port": 4323,
+    "isLibraryComponent": true
+  }
+}
